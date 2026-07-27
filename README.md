@@ -2,4 +2,4 @@ Link Airtable: https://airtable.com/invite/l?inviteId=invqRI4HzsiJiXYaB&inviteTo
 
 Descripción del caso de uso: Un sistema inteligente de gestión de contenidos que automatiza la ideación, validación y redacción de publicaciones adaptadas para Instagram y LinkedIn a través de WhatsApp, Gmail, n8n y Airtable.
 
-Video: 
+Video: https://www.loom.com/share/609439cba2a74955baa7d94efbd23253
